@@ -1,0 +1,16 @@
+.container {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 1vh 0; 
+  box-sizing: border-box; 
+}
+
+img {
+  width: 30%; 
+  margin-bottom: 5px; 
+  padding: 0 1%; 
+  
+}
+
+
